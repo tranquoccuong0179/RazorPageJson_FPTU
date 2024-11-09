@@ -1,0 +1,56 @@
+[
+  {
+    "CandidateId": "CANDIDATE0004",
+    "Fullname": "Ta Ngoc An",
+    "Birthday": "2024-10-31T00:00:00",
+    "ProfileShortDescription": "Ta Ngoc An",
+    "ProfileUrl": "TaNgocAn.pdf",
+    "PostingId": "P0004",
+    "Posting": null
+  },
+  {
+    "CandidateId": "CANDIDATE0005",
+    "Fullname": "Mi",
+    "Birthday": "2024-10-30T16:48:00Z",
+    "ProfileShortDescription": "Mi",
+    "ProfileUrl": "Mi.pdf",
+    "PostingId": "P0001",
+    "Posting": null
+  },
+  {
+    "CandidateId": "CANDIDATE0006",
+    "Fullname": "Meo",
+    "Birthday": "2024-10-30T16:48:00Z",
+    "ProfileShortDescription": "Meo",
+    "ProfileUrl": "Meo.pdf",
+    "PostingId": "P0001",
+    "Posting": null
+  },
+  {
+    "CandidateId": "CANDIDATE0007",
+    "Fullname": "Khanh",
+    "Birthday": "2024-10-30T00:00:00Z",
+    "ProfileShortDescription": "Khanh",
+    "ProfileUrl": "Khanh.pdf",
+    "PostingId": "P0003",
+    "Posting": null
+  },
+  {
+    "CandidateId": "CANDIDATE0022",
+    "Fullname": "Test1",
+    "Birthday": "2024-11-06T00:00:00",
+    "ProfileShortDescription": "test1",
+    "ProfileUrl": "test1.pdf",
+    "PostingId": "P0005",
+    "Posting": null
+  },
+  {
+    "CandidateId": "CANDIDATE0023",
+    "Fullname": "Test3",
+    "Birthday": "2009-02-18T00:00:00",
+    "ProfileShortDescription": "test3",
+    "ProfileUrl": "test3.pdf",
+    "PostingId": "P0002",
+    "Posting": null
+  }
+]
